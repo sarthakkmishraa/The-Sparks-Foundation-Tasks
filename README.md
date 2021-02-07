@@ -11,7 +11,7 @@ This repository contains the tasks that I completed while working as an intern f
 In this internship, we were provided a list of tasks and I was able to successfully complete 4 tasks within the given time-frame.
 
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/ePDA-9p19fw)
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/blob/master/Task-1_Linear_Regression.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/sarthakkmishraa/The-Sparks-Foundation-Tasks/blob/main/Task1_Linear%20Regression.ipynb)
 
 
 ### # Task-1 : Prediction using Supervised ML (Level - Beginner)
@@ -24,7 +24,7 @@ _Please click on the images on right side to view my solution._
 1. What will be predicted score if a student studies for 9.25 hrs/ day?
 
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/Uv-d6PRphp4)
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/blob/master/Task-2_Clustering.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/sarthakkmishraa/The-Sparks-Foundation-Tasks/blob/main/Task2_Clustering.ipynb)
 
 ### # Task-2 : Prediction using Unsupervised ML (Level - Beginner)
 _Please click on the images on right side to view my solution._
@@ -34,7 +34,7 @@ _Please click on the images on right side to view my solution._
 1. Data can be found at [https://bit.ly/3cGyP8j](https://bit.ly/3cGyP8j)
 
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/VlBGJgLoGIc)
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/blob/master/Task-3_Decision_Tree.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/sarthakkmishraa/The-Sparks-Foundation-Tasks/blob/main/Task3_Decision%20Tree.ipynb)
 
 ### # Task-3 : Prediction using Decision Tree Algorithm(Level - Intermediate)
 _Please click on the images on right side to view my solution._
@@ -44,12 +44,11 @@ _Please click on the images on right side to view my solution._
 1. Data can be found at [https://bit.ly/3kXTdox](https://bit.ly/3kXTdox)
 
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/sL00unmrVKU)
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/blob/master/Task-4_Stock_Price.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>]()
 
 ### # Task-4 : Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced)
 _Please click on the images on right side to view my solution._
 
-**NOTE : If you face any issue over dataset then please refer to the thread of [Issue #2](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/issues/2).**
 
 1. Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines.
 1. Stock to analyze and predict SENSEX (S&P BSE SENSEX)
