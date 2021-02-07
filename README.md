@@ -1,2 +1,2 @@
 # The-Sparks-Foundation-Tasks
-This repository contains the tasks that I completed while working as an intern for The Sparks Foundation.  Internship Category - Data Science and Business Analytics Internship Duration - 1 Month ( October-2020 ) Internship Type - Work from Home In this internship, we were provided a list of tasks and I was able to successfully complete 4 tasks within the given time-frame.  
+This repository contains the tasks that I completed while working as an intern for The Sparks Foundation.  Internship Category - Data Science and Business Analytics Internship Duration - 1 Month ( February ) Internship Type - Work from Home In this internship, we were provided a list of tasks and I was able to successfully complete 4 tasks within the given time-frame.  
