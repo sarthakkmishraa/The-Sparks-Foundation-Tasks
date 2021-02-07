@@ -5,10 +5,10 @@
 
 This repository contains the tasks that I completed while working as an intern for [The Sparks Foundation.](https://www.thesparksfoundationsingapore.org/)
 - **Internship Category** - Data Science and Business Analytics
-- **Internship Duration** - 1 Month ( October-2020 )
+- **Internship Duration** - 1 Month ( February-2021 )
 - **Internship Type** - Work from Home
 
-In this internship, we were provided a total of 6 Tasks and I was able to successfully complete all the 6 tasks within the given time-frame.
+In this internship, we were provided a list of tasks and I was able to successfully complete 4 tasks within the given time-frame.
 
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/ePDA-9p19fw)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/blob/master/Task-1_Linear_Regression.ipynb)
